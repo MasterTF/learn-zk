@@ -6,4 +6,5 @@
 */*.iws
 */build
 target
+.idea/
 
